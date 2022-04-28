@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c7f408be.css",
+    "main.js": "/static/js/main.20c742f5.js",
+    "static/media/hotel_1.jpg": "/static/media/hotel_1.7c47a7048308978d3b8a.jpg",
+    "static/media/room_5.jpg": "/static/media/room_5.75f3e827675dc9e403fe.jpg",
+    "static/media/pang_3.jpg": "/static/media/pang_3.6ad307f8fb3652ea6bf2.jpg",
+    "static/media/hotel_3.jpg": "/static/media/hotel_3.d6fd7acd18b9c275367f.jpg",
+    "static/media/fluid.jpg": "/static/media/fluid.b31d284811e743b2d934.jpg",
+    "static/media/hotel_2.jpg": "/static/media/hotel_2.928060b65711cfd95e1f.jpg",
+    "static/media/pang_2.jpg": "/static/media/pang_2.8f3b9320e5f8afef1485.jpg",
+    "static/media/foto2.jpg": "/static/media/foto2.44c47b8a7831b2fc3872.jpg",
+    "static/media/room_3.jpg": "/static/media/room_3.7d3bdb3fbadd0f51a501.jpg",
+    "static/media/winter.jpg": "/static/media/winter.92c0a86dd69ea00ab9e2.jpg",
+    "static/media/foto1.jpg": "/static/media/foto1.21f02418a84a92646eae.jpg",
+    "static/media/foto3.jpg": "/static/media/foto3.5f9726b6d2af614d795d.jpg",
+    "static/media/room_4.jpg": "/static/media/room_4.ddaf6cd0a97adb458d41.jpg",
+    "index.html": "/index.html",
+    "main.c7f408be.css.map": "/static/css/main.c7f408be.css.map",
+    "main.20c742f5.js.map": "/static/js/main.20c742f5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7f408be.css",
+    "static/js/main.20c742f5.js"
+  ]
+}
